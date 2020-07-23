@@ -1,0 +1,13 @@
+;
+;   file                 : gni.def
+;   created              : Wed Dec 20 14:31:48 EET 2017
+;   copyright            : (C) 2002 George Nicolaou
+;
+
+LIBRARY	gni
+
+SECTIONS .data READ WRITE
+
+EXPORTS
+	gni
+
